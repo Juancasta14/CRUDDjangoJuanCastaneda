@@ -98,6 +98,12 @@ Para ejecutar el proyecto una vez instalados todos los requisitos, solo necesita
  ![image](https://github.com/user-attachments/assets/21124935-615e-4c4d-9926-a02961595c6f)
 
 
+## Contact Information / Información de Contacto
+
+Elaborado por: Juan David Castañeda Tenjo
+
+* Github: https://github.com/Juancasta14
+
 
   
 
