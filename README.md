@@ -79,11 +79,17 @@ Para ejecutar el proyecto una vez instalados todos los requisitos, solo necesita
 
   ![image](https://github.com/user-attachments/assets/cca7d9f1-8de8-4196-a4d6-8260093f0f9b)
 
-*Changes / Cambios
+* Changes / Cambios
 
  ![image](https://github.com/user-attachments/assets/481bf3e5-bf17-471a-813a-171c9616d3e5)
 
  ![image](https://github.com/user-attachments/assets/720d2cc5-1506-4e8b-accc-1b5897f41b09)
+
+* Delete book / Eliminar libro
+
+  ![image](https://github.com/user-attachments/assets/9d86fdcc-de8d-4e85-b154-b843224c90ab)
+
+  ![image](https://github.com/user-attachments/assets/0c784c5f-6600-4b39-b840-82055f0a22f5)
 
 
   
