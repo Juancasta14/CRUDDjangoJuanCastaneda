@@ -59,15 +59,15 @@ Para ejecutar el proyecto una vez instalados todos los requisitos, solo necesita
 
 ## Features / Funcionalidades
 
-# Main Page / Página Principal
+### Main Page / Página Principal
 
  ![image](https://github.com/user-attachments/assets/a58e4cda-05e6-4e0b-ad79-dcbb0ab3389c)
 
-# Add new book / Añadir nuevo libro
+### Add new book / Añadir nuevo libro
 
  ![image](https://github.com/user-attachments/assets/2fdfce79-fd5e-4775-8645-7ea54f27fa67)
  
-# Validation / Validación de datos
+### Validation / Validación de datos
 
  ![image](https://github.com/user-attachments/assets/0d160306-4b67-4a45-9b1e-d63b408f634a)
 
@@ -75,30 +75,30 @@ Para ejecutar el proyecto una vez instalados todos los requisitos, solo necesita
 
  ![image](https://github.com/user-attachments/assets/6f1c86c6-0d4b-434a-9f59-3d86b3c94aec)
 
-# Edit book / Editar libro
+### Edit book / Editar libro
 
  ![image](https://github.com/user-attachments/assets/cca7d9f1-8de8-4196-a4d6-8260093f0f9b)
 
-# Changes / Cambios
+### Changes / Cambios
 
  ![image](https://github.com/user-attachments/assets/481bf3e5-bf17-471a-813a-171c9616d3e5)
 
  ![image](https://github.com/user-attachments/assets/720d2cc5-1506-4e8b-accc-1b5897f41b09)
 
-# Delete book / Eliminar libro
+### Delete book / Eliminar libro
 
  ![image](https://github.com/user-attachments/assets/9d86fdcc-de8d-4e85-b154-b843224c90ab)
 
  ![image](https://github.com/user-attachments/assets/0c784c5f-6600-4b39-b840-82055f0a22f5)
 
-# Search book / Buscar libro
+### Search book / Buscar libro
 
  ![image](https://github.com/user-attachments/assets/0e2a0d97-49d3-439e-accb-3c71176c4f19)
 
  ![image](https://github.com/user-attachments/assets/21124935-615e-4c4d-9926-a02961595c6f)
 
 
-## Contact Information / Información de Contacto
+### Contact Information / Información de Contacto
 
 Elaborado por: Juan David Castañeda Tenjo
 
