@@ -61,18 +61,17 @@ Para ejecutar el proyecto una vez instalados todos los requisitos, solo necesita
 
 * Main Page / Página Principal
 
-  ![image](https://github.com/user-attachments/assets/a58e4cda-05e6-4e0b-ad79-dcbb0ab3389c)
+ ![image](https://github.com/user-attachments/assets/a58e4cda-05e6-4e0b-ad79-dcbb0ab3389c)
 
-* Añadir Nuevo libro
+ ![image](https://github.com/user-attachments/assets/2fdfce79-fd5e-4775-8645-7ea54f27fa67)
 
-![image](https://github.com/user-attachments/assets/2fdfce79-fd5e-4775-8645-7ea54f27fa67)
+ ![image](https://github.com/user-attachments/assets/0d160306-4b67-4a45-9b1e-d63b408f634a)
 
-![image](https://github.com/user-attachments/assets/0d160306-4b67-4a45-9b1e-d63b408f634a)
+ ![image](https://github.com/user-attachments/assets/73ee9bc6-97fc-4e01-a203-e61dc6f0fd9c)
 
 Validación de datos
-![image](https://github.com/user-attachments/assets/73ee9bc6-97fc-4e01-a203-e61dc6f0fd9c)
 
-![image](https://github.com/user-attachments/assets/6f1c86c6-0d4b-434a-9f59-3d86b3c94aec)
+ ![image](https://github.com/user-attachments/assets/6f1c86c6-0d4b-434a-9f59-3d86b3c94aec)
 
 
 
