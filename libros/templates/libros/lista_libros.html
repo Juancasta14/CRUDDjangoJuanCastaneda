@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Libros</title>
+    {% load static %} <!-- Cargador de los estilos -->
+    <link rel="stylesheet" href="{% static 'css/estilos_lista.css' %}">
+</head>
+<body>
+    <h1>Biblioteca</h1>
+    <h3> Juan David Castañeda Tenjo</h3>
+     <!-- Formulario de búsqueda -->
+     <form method="get">
+        <input type="text" name="q" placeholder="Buscar por título..." value="{{ request.GET.q }}">
+        <button type="submit" >Buscar</button>
+    </form>
+
+    <a id="add" href="{% url 'crear_libro' %}">Añadir Nuevo Libro</a>
+    <ul>
+        {% for libro in libros %}
+            <li>
+                <div class="text-container" > {{ libro.titulo }} - {{ libro.autor }} </div>
+                <div class="action-buttons">
+                <a  href="{% url 'editar_libro' libro.pk %}">Editar</a>
+                <a  href="{% url 'eliminar_libro' libro.pk %}">Eliminar</a>
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

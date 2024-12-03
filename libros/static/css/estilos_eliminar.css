@@ -1,0 +1,72 @@
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Título */
+h1 {
+    font-size: 2rem;
+    color: #e53935; /* Rojo para resaltar el peligro de eliminación */
+    margin-bottom: 20px;
+}
+
+/* Mensaje de confirmación */
+p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Formulario */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+}
+
+/* Botón de confirmación */
+button[type="submit"] {
+    background-color: #e53935; /* Rojo de peligro */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+}
+
+button[type="submit"]:hover {
+    background-color: #d32f2f;
+}
+
+/* Enlace de cancelar */
+a {
+    margin-top: 20px;
+    text-decoration: none;
+    color: #4CAF50;
+    font-size: 0.9rem;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #388E3C;
+}
